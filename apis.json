@@ -1,0 +1,81 @@
+{
+    "name": "Push Technology",
+    "description": "<p>We make the Internet work for our mobile-obsessed, everything-connected world. Leading brands like 888 Holdings, DAB Bank, IBM, and William Hill leverage our technology to power applications critical to revenue growth, customer engagement, and business.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28733-www-pushtechnology-com.jpg",
+    "tags": [
+        "data",
+        "have api",
+        "synchronous"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/push-technology\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Push Technology",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28733-www-pushtechnology-com.jpg",
+            "humanURL": "http:\/\/www.pushtechnology.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/push-technology-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/push-technology-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Hacker News Search",
+            "url": "pushtechnology.com"
+        },
+        {
+            "type": "Stack Exchange Search",
+            "url": "pushtechnology.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.pushtechnology.com"
+        },
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.pushtechnology.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/push-technology"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.pushtechnology.com\/developers\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pushtechnology"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.pushtechnology.com\/pricing\/"
+        },
+        {
+            "type": "Reddit Search",
+            "url": "pushtechnology.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/push_technology"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.pushtechnology.com"
+        }
+    ]
+}
